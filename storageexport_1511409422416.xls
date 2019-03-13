@@ -1,0 +1,171 @@
+<table>
+            <tr>
+            <th style = "border:1px solid #000">id</th>
+            <th style = "border:1px solid #000">Name</th>
+            <th style = "border:1px solid #000">NRC</th>
+            <th style = "border:1px solid #000">DOB</th>
+            <th style = "border:1px solid #000">State</th>
+            <th style = "border:1px solid #000">Township</th>
+            <th style = "border:1px solid #000">Address</th>
+
+            </tr><tr>
+                            <td style = "border:1px solid #000">28</td>
+                            <td style = "border:1px solid #000">ll</td>
+                            <td style = "border:1px solid #000">ll</td>
+                            <td style = "border:1px solid #000">08/11/2017</td>
+                            <td style = "border:1px solid #000">Yangon</td>
+                            <td style = "border:1px solid #000">Ahlone</td>
+                            <td style = "border:1px solid #000">aa</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">27</td>
+                            <td style = "border:1px solid #000">lwinmoeaung</td>
+                            <td style = "border:1px solid #000">1/yyy(naing)01010101</td>
+                            <td style = "border:1px solid #000">10/07/1997</td>
+                            <td style = "border:1px solid #000">Magway</td>
+                            <td style = "border:1px solid #000">MinBu</td>
+                            <td style = "border:1px solid #000">MyoeThit</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">26</td>
+                            <td style = "border:1px solid #000">ေအာင္ႀကီး</td>
+                            <td style = "border:1px solid #000">၁၀/သကက(ႏုိင္)၉၃၈၇၅၉</td>
+                            <td style = "border:1px solid #000">12/09/1980</td>
+                            <td style = "border:1px solid #000">Sagaing</td>
+                            <td style = "border:1px solid #000">Monywa</td>
+                            <td style = "border:1px solid #000">အမွတ္ (၁၀) ေရကျပင္လမ္း</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">25</td>
+                            <td style = "border:1px solid #000">thandar</td>
+                            <td style = "border:1px solid #000">835734857</td>
+                            <td style = "border:1px solid #000">17/10/2017</td>
+                            <td style = "border:1px solid #000">Yangon</td>
+                            <td style = "border:1px solid #000">South Okkalar</td>
+                            <td style = "border:1px solid #000">southokkalapa</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">23</td>
+                            <td style = "border:1px solid #000">khinkhin</td>
+                            <td style = "border:1px solid #000">test(N)123</td>
+                            <td style = "border:1px solid #000">20/09/2017</td>
+                            <td style = "border:1px solid #000">Bago</td>
+                            <td style = "border:1px solid #000">Bago City</td>
+                            <td style = "border:1px solid #000">Yangon</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">22</td>
+                            <td style = "border:1px solid #000">monmon</td>
+                            <td style = "border:1px solid #000">12/alana(N)12345</td>
+                            <td style = "border:1px solid #000">20/09/2017</td>
+                            <td style = "border:1px solid #000">Magway</td>
+                            <td style = "border:1px solid #000">Pakokku</td>
+                            <td style = "border:1px solid #000">Yangon</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">21</td>
+                            <td style = "border:1px solid #000">Ye Ye</td>
+                            <td style = "border:1px solid #000">12/ALN(N)761234</td>
+                            <td style = "border:1px solid #000">21/06/1989</td>
+                            <td style = "border:1px solid #000">Yangon</td>
+                            <td style = "border:1px solid #000">Ahlone</td>
+                            <td style = "border:1px solid #000">No(15)</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">19</td>
+                            <td style = "border:1px solid #000">တိုင္၀င္း</td>
+                            <td style = "border:1px solid #000">၇/ရဘန(နိုင္)၀၃၉၈၉၄</td>
+                            <td style = "border:1px solid #000">24/09/2017</td>
+                            <td style = "border:1px solid #000">Bago</td>
+                            <td style = "border:1px solid #000">Bamaw</td>
+                            <td style = "border:1px solid #000">ပဲခူး</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">18</td>
+                            <td style = "border:1px solid #000">ဆန္၀ဲ</td>
+                            <td style = "border:1px solid #000">၄/မရက(နိုင္)၀၉၅၈၉၄</td>
+                            <td style = "border:1px solid #000">17/09/2017</td>
+                            <td style = "border:1px solid #000">Bago</td>
+                            <td style = "border:1px solid #000">Pyay</td>
+                            <td style = "border:1px solid #000">ျပည္</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">17</td>
+                            <td style = "border:1px solid #000">ေဂၽာ႔ဖေရး</td>
+                            <td style = "border:1px solid #000">၄/မရက(နိုင္)၀၉၅၈၉၄</td>
+                            <td style = "border:1px solid #000">10/09/2017</td>
+                            <td style = "border:1px solid #000">Nay Pyi Taw</td>
+                            <td style = "border:1px solid #000">Pyinmana</td>
+                            <td style = "border:1px solid #000">ေနျပည္ေတာ္</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">16</td>
+                            <td style = "border:1px solid #000">ဘရန္</td>
+                            <td style = "border:1px solid #000">၉/မစဆ(နိုင္)၀၉၅၀၉၄</td>
+                            <td style = "border:1px solid #000">11/09/2017</td>
+                            <td style = "border:1px solid #000">Magway</td>
+                            <td style = "border:1px solid #000">Magway</td>
+                            <td style = "border:1px solid #000">မေကြး</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">15</td>
+                            <td style = "border:1px solid #000">အာယာ</td>
+                            <td style = "border:1px solid #000">၇/ရဘန(နိုင္)၀၃၉၈၉၄</td>
+                            <td style = "border:1px solid #000">25/09/2017</td>
+                            <td style = "border:1px solid #000">Yangon</td>
+                            <td style = "border:1px solid #000">Insein</td>
+                            <td style = "border:1px solid #000">ရန္ကုန္ </td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">14</td>
+                            <td style = "border:1px solid #000">ဂိၽမ္း</td>
+                            <td style = "border:1px solid #000">၅/ထခန(နိုင္)၀၇၄၉၃၆</td>
+                            <td style = "border:1px solid #000">18/09/2017</td>
+                            <td style = "border:1px solid #000">Bago</td>
+                            <td style = "border:1px solid #000">Phyue</td>
+                            <td style = "border:1px solid #000">ပဲခူး</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">13</td>
+                            <td style = "border:1px solid #000">နက္စတာ႔</td>
+                            <td style = "border:1px solid #000">၃/ငတည(နိုင္)၈၉၅၀၄၈</td>
+                            <td style = "border:1px solid #000">03/09/2017</td>
+                            <td style = "border:1px solid #000">Mandalay</td>
+                            <td style = "border:1px solid #000">Bagan</td>
+                            <td style = "border:1px solid #000">မန္းတေလး</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">12</td>
+                            <td style = "border:1px solid #000">ဂွၽြန္စႏိုး</td>
+                            <td style = "border:1px solid #000">၆/ညခန(နိုင္)၈၄၇၈၆၇</td>
+                            <td style = "border:1px solid #000">10/09/2017</td>
+                            <td style = "border:1px solid #000">Magway</td>
+                            <td style = "border:1px solid #000">Magway</td>
+                            <td style = "border:1px solid #000">မေကြး</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">11</td>
+                            <td style = "border:1px solid #000">ဆန္ဆာ</td>
+                            <td style = "border:1px solid #000">၃/ငတည(နိုင္)၈၉၅၀၄၈</td>
+                            <td style = "border:1px solid #000">10/09/2017</td>
+                            <td style = "border:1px solid #000">Bago</td>
+                            <td style = "border:1px solid #000">Aung Lan</td>
+                            <td style = "border:1px solid #000">ပဲခူး</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">10</td>
+                            <td style = "border:1px solid #000">ဆာဆီ</td>
+                            <td style = "border:1px solid #000">၄/မရက(နိုင္)၀၉၅၈၉၄</td>
+                            <td style = "border:1px solid #000">26/09/2017</td>
+                            <td style = "border:1px solid #000">Bago</td>
+                            <td style = "border:1px solid #000">Pyay</td>
+                            <td style = "border:1px solid #000">ပဲခူး</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">9</td>
+                            <td style = "border:1px solid #000">မနန္းေထြး</td>
+                            <td style = "border:1px solid #000">၄/မရက(နိုင္)၀၉၅၈၉၄</td>
+                            <td style = "border:1px solid #000">18/09/2017</td>
+                            <td style = "border:1px solid #000">Kachin</td>
+                            <td style = "border:1px solid #000">Aung Lan</td>
+                            <td style = "border:1px solid #000">yangon</td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">8</td>
+                            <td style = "border:1px solid #000">ေမာင္ျမင့္ၾကည္</td>
+                            <td style = "border:1px solid #000">၇/ရဘန(နိုင္)၀၃၉၈၉၄</td>
+                            <td style = "border:1px solid #000">25/09/2017</td>
+                            <td style = "border:1px solid #000">Yangon</td>
+                            <td style = "border:1px solid #000">Kyauktada</td>
+                            <td style = "border:1px solid #000">ရန္ကုန္ </td>
+                           </tr><tr>
+                            <td style = "border:1px solid #000">7</td>
+                            <td style = "border:1px solid #000">ေမာင္ကုစ္</td>
+                            <td style = "border:1px solid #000">၅/တကန(နိုင္)၀၇၄၉၃၆</td>
+                            <td style = "border:1px solid #000">07/09/2017</td>
+                            <td style = "border:1px solid #000">Yangon</td>
+                            <td style = "border:1px solid #000">Kyauk Ta Dar</td>
+                            <td style = "border:1px solid #000">ရန္ကုန္</td>
+                           </tr></table>

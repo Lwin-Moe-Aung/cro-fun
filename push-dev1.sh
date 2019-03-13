@@ -1,0 +1,1 @@
+ssh -t -o StrictHostKeyChecking=no -i cf_ui_private1.pem cf_user@188.166.211.161 '/home/cf_user/.master'

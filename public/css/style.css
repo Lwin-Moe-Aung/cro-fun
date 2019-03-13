@@ -1,0 +1,568 @@
+/* bootstrap */
+@import url('bootstrap.css');
+/* bootstrap responsive */
+@import url('bootstrap-responsive.css');
+
+
+
+
+body {
+    background-color: red;
+    color: #444;
+    font-size: 16px;
+    font-weight:300;
+    font-family:Oxygen,Helvetica,Arial,sans-serif;
+}
+.porject-inner{
+    background-color: transparent;
+}
+
+/* slider */
+
+.move-container {
+    margin-top: 81px;
+}
+.myslider img {
+    width: 100%;
+}
+
+#carousel-slider {
+    position: relative;
+}
+
+#carousel-slider .carousel-indicators {
+    bottom: -40px;
+}
+
+#carousel-slider .carousel-indicators li {
+    border: 1px solid #ffbd20;
+}
+
+#carousel-slider a i {
+    border-radius:50%;
+    font-size: 30px;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    width: 50px;
+    color:#65AAF0;
+    background-color:#65AAF0;
+    color:#fff;
+}
+
+
+
+#carousel-slider
+.carousel-control {
+    width:inherit;
+}
+
+#carousel-slider .carousel-control.left i {
+    left:50px;
+    top: calc(50% - 50px);
+}
+
+#carousel-slider .carousel-control.right i {
+    right: 50px;
+    top: calc(50% - 50px);
+}
+
+
+ul, ol {
+    font-size: 1em; /* 16px */
+    line-height: 1.5; /* 24px */
+    margin: 0 0 1.5em 0;
+}
+
+
+
+strong {
+    font-weight:700;
+    font-family: Oxygen,Helvetica,Arial,sans-serif;
+}
+small {
+    font-size: 80%; /* 12px */
+    line-height: 2; /* 24px */
+    margin-top: 2em;
+    margin-bottom: 0em;
+}
+
+
+h2.pagetitle {
+    color:#fff;
+    font-size:46px;
+}
+section.section {
+    padding: 100px 0 80px;
+}
+
+section.section h4 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 46px;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+section.inner {
+    padding: 50px 0 50px;
+}
+
+section.spacer {
+    padding:90px 0 70px;
+    color:#fcfcfc;
+}
+
+section#project {
+    background-color: #f9f9f9;
+    padding: 100px 0px 0px 0px;
+
+}
+
+.porject-inner {
+    background-color:transparent;
+    letter-spacing: -0.3px;
+    margin-bottom:15px;
+
+}
+.porject-inner:hover {
+    box-shadow: 0 0 20px rgba(1, 1, 1, 0.3);
+    -moz-box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+    -webkit-box-shadow: 0 0 16px rgba(0, 0, 0, 0.3);
+    -webkit-transition: all 0.1s ease;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.01s ease;
+    background-color:transparent;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.porject-inner .project-detail h5 a {
+    font-size:22px;
+}
+
+.porject-inner .project-detail a.more {
+    font-size:13px;
+}
+
+footer {
+    background-color: #000;
+    text-align: center;
+    color: #ddd;
+    padding:10px 0 10px;
+}
+
+footer a {
+    color: #428bca;
+}
+
+@media (max-width: 767px) {
+    body {
+        padding-left:0 ;
+        padding-right:0;
+        padding:0;
+    }
+
+
+    .container {
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 30px;
+    }
+
+
+}
+
+
+@media (max-width : 480px) {
+    #header-wrapper {
+        padding-top:80px;
+    }
+
+}
+
+
+@media only screen  and (min-device-width : 320px)  and (max-device-width : 480px) {
+
+    section.section {
+        padding: 1em 0;
+    }
+    .navbar .container{
+        padding: 0px 10px;
+    }
+
+
+    .proj-img {
+        width: 100%;
+    }
+    .proj-img {
+        margin-right: auto;
+        margin-left: auto;
+        display: block;
+    }
+
+}
+
+#project .row{
+    margin: 0px;
+}
+#project .row .span{
+    margin-left:0px !important;
+    padding: 15px !important;
+}
+.project-detail .left,.project-progress .right{
+    float: left;
+}
+@media (max-width: 979px) and (min-width: 768px){
+    .span3{
+
+        width: 331px;
+        margin-bottom: 20px;
+    }
+    .navbar .container{
+        padding: 0px 10px;
+    }
+    body {
+        padding-left:0 ;
+        padding-right:0;
+        padding:0;
+    }
+
+    .container {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+}
+@media (min-width: 1200px){
+    #project .span3{
+        width: 285px;
+        margin-left: 0px;
+        padding: 15px;
+    }
+}
+@media (max-width: 1200px) and (min-width: 979px){
+    #project .span3{
+        padding: 0px 15px 20px 15px;
+        margin-left: 0px;
+        width: 283px;
+    }
+}
+#carousel-slider .left.carousel-control,#carousel-slider .right.carousel-control{
+
+    border: 0px;
+}
+
+.project-detail .left,.project-footer .left{
+    padding-left:15px;
+
+
+}
+.project-footer .left{
+    margin-bottom: 5px;
+}
+
+.project-detail .right,.project-footer .right{
+    padding-right: 15px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+.project-detail .right{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.project-detail .left{
+    letter-spacing: -1.2px;
+}
+
+.project-footer .right,.project-footer .left{
+    font-size:12px;
+    letter-spacing: -0.8px;
+}
+
+.project-detail div{
+    padding:5px 0px 0px 0px;
+}
+.project-footer{
+    background-color: #f4f4e6;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    padding-top: 15px;
+}
+.project-information{
+    background-color: #ffffff;
+    padding-bottom: 12px;
+
+    padding-top: 7px;
+}
+
+.project-title-container{
+    padding-left:20px;
+}
+.navbar{
+    border-radius: 0px;
+}
+.project-heading h3 a{
+    color: #0f3032;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 700;
+}
+.project-heading small{
+    font-size: 80%;
+    font-weight: 400;
+    line-height: 1;
+    color: #777;
+}
+.project-heading h3{
+    font-weight: 700;
+    font-size: 17px;
+    color: #000;
+    white-space: normal;
+    line-height: 20px;
+
+
+}
+#project .span3{
+    margin: 0px;
+    padding:15px;
+}
+.porject-image img{
+    height: 190px;
+
+}
+.project .container{
+    padding: 0px;
+}
+.project-footer .button{
+    padding: 15px;
+}
+.project-heading small div{
+    padding:0px;
+}
+.project-heading{
+    margin:0px 15px;
+}
+.progress{
+    height:15px ;
+
+    border-radius: 20px;
+
+    border-radius: 6px;
+
+    margin: 0px 15px 20px 15px;
+
+}
+#porject .project-wrapper{
+    margin-bottom:20px;
+}
+#project .container{
+    margin-bottom: 100px;
+}
+.project-footer .progress-bar-dark{
+
+    background-color: #ffffff;
+    width:100% !important;
+}
+.porject-inner:hover{
+    background-color:transparent;
+    border-top-right-radius:6px;
+    border-top-left-radius: 6px;
+}
+
+
+.line{
+    border: 1px solid gray;
+    margin:23px 0px;
+
+}
+.invest-profile  td{
+
+    border-top:none !important;
+}
+
+.image-footer-text{
+
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    overflow: hidden;
+    padding: 40px 30px;
+    font-size: 24px;
+    color: #fff;
+    letter-spacing: 2px;
+    line-height: 22px;
+    text-transform: uppercase;
+    background: #0f3032;
+}
+.invest-name{
+   font-weight: 400;
+    font-size: 44px;
+    color: #0f3032;
+    letter-spacing: 0;
+    margin-top: 0;
+    line-height: 70px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-bottom: 13px;
+}
+.invest-greeting{
+    font-size: 20px;
+    color: #252525;
+    letter-spacing: 0;
+    line-height: 24px;
+
+}
+.invest-opp{
+    font-weight: 100;
+    font-size: 14px;
+    color: #252525;
+    letter-spacing: 0;
+}
+
+.invest-active{
+    position: relative;
+    z-index: 1;
+    font-weight: 200;
+    font-size: 17px;
+    color: #333;
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+
+}
+.invest-wrapper .invest-right{
+  margin-top: 10px
+}
+.first-section,.third-section{
+      background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 4px 10px 13px -1px rgba(0,0,0,.1);
+    padding: 30px;
+    margin-bottom: 30px;
+
+}
+.third-section{
+  padding-bottom: 50px;
+}
+.invest-header{
+  margin-bottom: 30px;
+}
+.invest-page .amount{
+    font-weight: 700;
+    font-size: 24px;
+    color: #afa376;
+    letter-spacing: 0;
+    line-height: 35px;
+    opacity: .7;
+}
+.invest-page .profit-amount{
+   font-style: italic;
+    color: #afa376;
+  
+}
+.invest-page .container{
+    margin-top: 160px;
+    margin-bottom: 50px;
+}
+
+/*.image-wrapper {
+position: relative;
+width: 100%;
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+}*/
+
+.image {
+    opacity: 1;
+    display: block;
+    width: 262px;
+    height:250px;
+    height: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.middle {
+
+    opacity: 0;
+    position: absolute;
+    top: 48%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+
+}
+
+.image-wrapper:hover .image {
+    opacity: 0.7;
+}
+
+.image-wrapper:hover .middle {
+    opacity: 1;
+}
+.hover-image{
+
+    width: 266px;
+    height: 255px;
+    opacity: 0.5;
+}
+.hover-image img{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.middle .dropzone.dz-clickable{
+
+    background: #eeeeee;
+    width: 266px;
+    height: 255px;
+    opacity: 0.5;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url(http://local.crowd.funding.com/uploads/Images/hover_image.jpg);
+
+}
+#uploadForm{
+    margin-bottom: 0px;
+}
+.middle .dropzone.dz-clickable{
+
+    position: absolute;
+    width: 100%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background: url(http://local.crowd.funding.com/uploads/Images/icon-avatar-hover.png) 0% 0% / cover;
+    width: 266px;
+    height: 265px;
+    top: 0%;
+    opacity: 0.3;
+}
+.navbar .container .navbar-header .navbar-brand{
+    color: #ffffff;
+
+}
+.porject-image img{
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+}
+#project .container{
+    padding:0px;
+}
+.slick-track{
+    left:-24px !important;
+   
+}
+
+
+/*for With four easy steps to start investing*/
+.img-farmer{
+    margin-bottom: 10%;
+}
+
+
+
+
